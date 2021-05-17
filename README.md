@@ -1,7 +1,6 @@
 <h1 align="center">About Med-Center</h1>
 
 <h3>
-    
 The ‘med center’ project has 3 different views.<br>
  View 1: Patient view<br>
  View 2: Admin view<br>
