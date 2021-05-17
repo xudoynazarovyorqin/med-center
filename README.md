@@ -1,4 +1,4 @@
-<p align="center"><a href="https://user-images.githubusercontent.com/79446216/118486106-a89c5e80-b732-11eb-9f1d-ab998ea11c71.png" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://user-images.githubusercontent.com/79446216/118486106-a89c5e80-b732-11eb-9f1d-ab998ea11c71.png" target="_blank"><img src="https://user-images.githubusercontent.com/79446216/118486106-a89c5e80-b732-11eb-9f1d-ab998ea11c71.png" width="400"></a></p>
 
 
 <p align="center">
