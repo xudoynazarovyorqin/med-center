@@ -7,6 +7,9 @@ The ‘med center’ project has 3 different views.<br>
  View 3: Doctor view<br>
 </h3>
 
+##View 1:
+The first view is this patient view:
+
 <p align="center"><a href="https://user-images.githubusercontent.com/79446216/118486106-a89c5e80-b732-11eb-9f1d-ab998ea11c71.png" target="_blank"><img src="https://user-images.githubusercontent.com/79446216/118486106-a89c5e80-b732-11eb-9f1d-ab998ea11c71.png"></a></p>
 
 
@@ -17,3 +20,4 @@ The ‘med center’ project has 3 different views.<br>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+    
