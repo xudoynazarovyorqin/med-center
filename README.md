@@ -1,4 +1,4 @@
-<h3 align="center">About Med-Center</h3>
+<h1 align="center">About Med-Center</h1>
 
 
 <p align="center"><a href="https://user-images.githubusercontent.com/79446216/118486106-a89c5e80-b732-11eb-9f1d-ab998ea11c71.png" target="_blank"><img src="https://user-images.githubusercontent.com/79446216/118486106-a89c5e80-b732-11eb-9f1d-ab998ea11c71.png"></a></p>
